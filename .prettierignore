@@ -1,0 +1,7 @@
+//jis file mai ye nahi chahate us file ka name
+
+/.vscode
+/node web_modules
+./dist
+*.env
+.env*
